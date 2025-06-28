@@ -1,1 +1,5 @@
-# Library_management_Project_sql.
+# Library_management_Project_sql.T
+This is a full library management project
+using sql commands
+
+Like This video :)
